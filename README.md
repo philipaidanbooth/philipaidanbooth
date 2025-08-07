@@ -36,7 +36,7 @@ Hey there! I’m Philip Booth — a student at Colby College, passionate about A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
   <img src="https://seeklogo.com/vector-logo/611655/langchain-icon" width="30" title="LangChain"/>
-  <img src="https://images.seeklogo.com/logo-png/48/2/chroma-logo-png_seeklogo-482133.png" width="30" title="ChromaDB"/>
+  <img src="file:///Users/philipbooth/Downloads/Chroma%20Vector%20Logo/chroma-seeklogo.svg" width="30" title="ChromaDB"/>
   <img src="https://beget.com/en/cloud/marketplace/n8n" width="30" title="n8n"/>
 </p>
 
