@@ -13,13 +13,17 @@ Whether I’m building NLP pipelines for Latin (*LatinCy*), developing AI agents
 ---
 
 ## 🔗 Connect With Me:
-
-
 <p align="left">
   <a href="https://www.linkedin.com/in/philipbooth/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" title="LinkedIn"/>
   </a>
 </p>
+---
+
+## My Tech Stack:
+
+---
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
@@ -39,5 +43,7 @@ Whether I’m building NLP pipelines for Latin (*LatinCy*), developing AI agents
   <img src="https://avatars.githubusercontent.com/u/74768284?s=200&v=4" width="30" title="ChromaDB"/>
   <img src="https://n8n.io/images/favicon/apple-touch-icon.png" width="30" title="n8n"/>
 </p>
+
+---
 
 Thanks for visiting! 🌟
