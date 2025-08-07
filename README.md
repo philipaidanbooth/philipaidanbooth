@@ -1,11 +1,11 @@
 # Philip's GitHub Profile 👋
 
-Hey there! I’m Philip Booth — a student at Colby College, passionate about AI, classical literature, and building useful things with code. I an avid soccer player and a bit of a thespian as well!
+Hey there! I’m Philip Booth — a student at Colby College from NYC, passionate about AI, classical literature, and building useful things with code. I an avid soccer player and a bit of a thespian as well!
 
 🎓 I’m double majoring in Data Science and Classics at Colby College
 ⚙️ Currently building AI tools for education and marketing (like ShakespeareGPT and content agents at Props)
 🏛️ Passionate about Latin, language learning, and the way data shapes how we understand the world
-📬 Reach me at: philipaidanbooth@gmail.com
+📬 Reach me at: paboot26@colby.edu
 🧠 Most excited about: NLP, RAG pipelines, AI agents, and applications of machine learning to humanities research
 
 ---
@@ -35,11 +35,6 @@ Hey there! I’m Philip Booth — a student at Colby College, passionate about A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
-<img src="https://avatars.githubusercontent.com/u/90171307?s=200&v=4" width="30" title="LangChain"/>
-<img src="https://avatars.githubusercontent.com/u/74768284?s=200&v=4" width="30" title="ChromaDB"/>
-<img src="https://n8n.io/images/favicon/apple-touch-icon.png" width="30" title="n8n"/>
-
 </p>
 
 ---
