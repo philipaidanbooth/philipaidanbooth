@@ -35,9 +35,11 @@ Hey there! I’m Philip Booth — a student at Colby College, passionate about A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
-  <img src="https://seeklogo.com/vector-logo/611655/langchain-icon" width="30" title="LangChain"/>
-  <img src="file:///Users/philipbooth/Downloads/Chroma%20Vector%20Logo/chroma-seeklogo.svg" width="30" title="ChromaDB"/>
-  <img src="https://beget.com/en/cloud/marketplace/n8n" width="30" title="n8n"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
+<img src="https://avatars.githubusercontent.com/u/90171307?s=200&v=4" width="30" title="LangChain"/>
+<img src="https://avatars.githubusercontent.com/u/74768284?s=200&v=4" width="30" title="ChromaDB"/>
+<img src="https://n8n.io/images/favicon/apple-touch-icon.png" width="30" title="n8n"/>
+
 </p>
 
 ---
