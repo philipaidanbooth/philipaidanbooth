@@ -2,16 +2,9 @@
 
 
 
-Hey there! I’m Philip Booth — a student at Colby College from NYC, passionate about AI, classical literature, and building useful things with code. I an avid soccer player and a bit of a thespian as well!
+I’m a student at Colby College from NYC, passionate about AI, Linguistics, taking creative paths to problem solving. I'm an avid soccer player and a bit of a thespian as well!
 
-
-
-- 🎓 I’m double majoring in Data Science and Classics at Colby College
-- ⚙️ Currently building AI tools for education and marketing (like [ShakespeareGPT](https://shakepseare-gpt.vercel.app/) and content agents at Props)
-- 🏛️ Passionate about Latin, language learning, and the way data shapes how we understand the world. My [logeion MCP server](https://mcphub.com/mcp-servers/philipaidanbooth/logeion-mcp-server)
-- 📬 Reach me at: paboot26@colby.edu
-- 🧠 Most excited about: NLP, RAG pipelines, AI agents, and applications of machine learning to humanities research
-
+Reach me at: paboot26@colby.edu
 
 ---
 
