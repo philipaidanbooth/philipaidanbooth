@@ -10,7 +10,7 @@ Reach me at: paboot26@colby.edu
 
 ## 🔗 Connect With Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/philipbooth/">
+  <a href="https://www.linkedin.com/in/philip-a-booth/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" title="LinkedIn"/>
   </a>
 </p>
